@@ -1,0 +1,15 @@
+#Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada
+
+x = int(input('Digite um valor: '))
+print('Tabuada de {}'.format(x))
+print('0 * {} = {}'.format(x, x * 0))
+print('1 * {} = {}'.format(x, x * 1))
+print('2 * {} = {}'.format(x, x * 2))
+print('3 * {} = {}'.format(x, x * 3))
+print('4 * {} = {}'.format(x, x * 4))
+print('5 * {} = {}'.format(x, x * 5))
+print('6 * {} = {}'.format(x, x * 6))
+print('7 * {} = {}'.format(x, x * 7))
+print('8 * {} = {}'.format(x, x * 8))
+print('9 * {} = {}'.format(x, x * 9))
+print('10 * {} = {}'.format(x, x * 10))
